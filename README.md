@@ -1,6 +1,6 @@
 # PROJETO DE DESENVOLVIMENTO DE SORTWARE
 
-Trabalho desenvolvido para a diciplina Laboratório de Inovações II da Faculdade de Tecnologia e Inovações Senac DF no segundo semestre de 2024 sob orientação do professor Esp. Marcelo Carboni Gomes.
+Trabalho desenvolvido para a disciplina Laboratório de Inovações II da Faculdade de Tecnologia e Inovações Senac DF no segundo semestre de 2024 sob orientação do professor Esp. Marcelo Carboni Gomes.
 
 ## Escopo
 
